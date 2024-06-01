@@ -1,5 +1,3 @@
-// 322624206 Daniel Talker
-
 import core.Counter;
 import animation.AnimationRunner;
 import game.GameFlow;

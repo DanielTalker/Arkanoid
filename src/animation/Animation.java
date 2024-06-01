@@ -1,5 +1,3 @@
-// 322624206 Daniel Talker
-
 package animation;
 
 import biuoop.DrawSurface;

@@ -1,4 +1,3 @@
-// 322624206 Daniel Talker
 
 package levels;
 

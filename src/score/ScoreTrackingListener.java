@@ -1,5 +1,3 @@
-// 322624206 Daniel Talker
-
 package score;
 
 import core.Counter;
