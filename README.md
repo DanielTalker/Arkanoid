@@ -41,7 +41,3 @@ java Game
 - **Right Arrow Key**: Move paddle right.
 - **Space Bar**: Launch the ball.
 
-## Contributing
-
-Interested in contributing? We welcome contributions to improve the game. Please feel free to fork the repository, make changes, and submit pull requests. You can also open issues to discuss potential improvements or report bugs.
-
