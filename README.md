@@ -11,7 +11,6 @@ The complete code is available in my repository. Feel free to check it out and e
 - **Multiple Levels**: Challenge yourself through progressively harder levels.
 - **Power-Ups**: Enhance gameplay with various power-ups that affect the ball and paddle dynamics.
 - **Score Tracking**: Keep track of your high scores to measure your improvement.
-- **Sound Effects**: Enjoy engaging audio that enhances the gaming experience.
 
 ## Installation
 
